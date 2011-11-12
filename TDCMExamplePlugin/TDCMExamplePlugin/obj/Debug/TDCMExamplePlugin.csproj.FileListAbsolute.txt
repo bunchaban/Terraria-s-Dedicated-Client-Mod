@@ -1,0 +1,8 @@
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\bin\Debug\TDCMExamplePlugin.dll
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\bin\Debug\TDCMExamplePlugin.pdb
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\bin\Debug\TDCM.exe
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\bin\Debug\TDCM.pdb
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\obj\Debug\ResolveAssemblyReference.cache
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\obj\Debug\TDCMExamplePlugin.dll
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\obj\Debug\TDCMExamplePlugin.pdb
+E:\TDCM_Git\TDCMExamplePlugin\TDCMExamplePlugin\bin\Debug\Mono.Cecil.dll
